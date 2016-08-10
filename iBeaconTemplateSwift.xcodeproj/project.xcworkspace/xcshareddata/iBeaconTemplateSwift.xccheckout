@@ -20,7 +20,7 @@
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>1FA88AF952DAABFD49A5E71A5EAE8E16D10A614C</key>
-		<string>../..iBeaconTemplateSwift/</string>
+		<string>../..iBeaconTemplateSwift</string>
 		<key>47480D11220F8D59764FE4FB44B2A5A04C90BCF8</key>
 		<string>../..</string>
 	</dict>
@@ -46,7 +46,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>1FA88AF952DAABFD49A5E71A5EAE8E16D10A614C</string>
 			<key>IDESourceControlWCCName</key>
-			<string>iBeaconTemplateSwift</string>
+			<string>BeaconAppiBeaconTemplateSwift</string>
 		</dict>
 	</array>
 </dict>
