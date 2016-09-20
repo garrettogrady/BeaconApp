@@ -1,0 +1,62 @@
+{
+    "total_count": 1,
+    "incomplete_results": false,
+    "items": [
+              {
+              "_id" : "559521ebbbbeba2f836f0026d",
+              "access": "normal",
+              "beaconId": 2,
+              "beaconName": "Steve's office",
+              "fname": "Steve",
+              "locationUpdated": "28"
+              },
+              {
+              "_id" : "559521ebbbbeba2f836f0026d",
+              "access": "normal",
+              "beaconId": 2,
+              "beaconName": "Garrett's office",
+              "fname": "Garrett",
+              "locationUpdated": "45"
+              },
+              {
+              "_id" : "559521ebbbbeba2f836f0026d",
+              "access": "normal",
+              "beaconId": 2,
+              "beaconName": "Workspace",
+              "fname": "Bryan",
+              "locationUpdated": "15"
+              },
+              {
+              "_id" : "559521ebbbbeba2f836f0026d",
+              "access": "Karl",
+              "beaconId": 2,
+              "beaconName": "Workspace",
+              "fname": "Karl",
+              "locationUpdated": "35"
+              },
+              {
+              "_id" : "559521ebbbbeba2f836f0026d",
+              "access": "Karl",
+              "beaconId": 2,
+              "beaconName": "Jack's Office",
+              "fname": "Jason",
+              "locationUpdated": "55"
+              },
+              {
+              "_id" : "559521ebbbbeba2f836f0026d",
+              "access": "Karl",
+              "beaconId": 2,
+              "beaconName": "Workspace",
+              "fname": "Ed",
+              "locationUpdated": "39"
+              },
+              {
+              "_id" : "559521ebbbbeba2f836f0026d",
+              "access": "Karl",
+              "beaconId": 2,
+              "beaconName": "Workspace",
+              "fname": "Stephanie",
+              "locationUpdated": "17"
+              }
+              ]
+}
